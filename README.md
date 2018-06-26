@@ -8,4 +8,4 @@ Sample website with plenty of files for demos
 
 ## Introduction
 
-Working on Git
+Working on Git some more content.
