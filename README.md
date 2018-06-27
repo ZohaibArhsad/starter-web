@@ -4,7 +4,7 @@ This repository is for showing how Git and GitHub work. checking rebashing.
 
 ## Purpose
 
-Sample website with plenty of files for demos
+Sample website with plenty of files for demos. Trying rebashing
 
 ## Introduction
 
